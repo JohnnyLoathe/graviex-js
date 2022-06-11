@@ -63,5 +63,8 @@ Example:
 	        }        
         });
 
-For a more detailed example, please see "mm.js" in the git directory.
+Market Maker
+Open mm.js with nano mm.js and adjust all settings to suit.
 
+Run bot using
+node mm.js
